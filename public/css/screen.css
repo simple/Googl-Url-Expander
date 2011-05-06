@@ -136,7 +136,7 @@ li{
 	#form2{
 		margin:1em 0;
 		color:#fff;
-		width:400px; /* customize width, this form have fluid layout */
+		width:100%; /* customize width, this form have fluid layout */
 		}
 	#form2 h3{
 		margin:0;
